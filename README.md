@@ -30,8 +30,8 @@ It uses an SQLite database with WAL mode for safe multi-user access over a share
 | Lost | Light red | Marked as missing |
 
 **Double-click behavior:**  
-- Available → opens the Sign Out dialog  
-- Out → marks card as Returned
+- Available: opens the Sign Out dialog  
+- Out: marks card as Returned
 
 ---
 
