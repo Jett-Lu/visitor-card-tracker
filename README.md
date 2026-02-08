@@ -1,5 +1,8 @@
 # CETI Visitor Card Tracker
 
+- This application was originally developed for internal use within the Engineering Materials Office (EMO) at the Ministry of Transportation (MTO), supporting administrative tracking needs in a laboratory and office environment. It has since been generalized and released as a standalone tool suitable for other lab, office, and shared-access settings.
+- This project is not an official Government of Ontario or MTO product and is provided here as an independent, general-purpose application.
+
 A lightweight Windows desktop application for tracking visitor and lab access cards.  
 Built with Python, Tkinter, and SQLite, and distributed as a portable `.exe`.
 
