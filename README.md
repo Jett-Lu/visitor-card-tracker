@@ -7,8 +7,6 @@ A standalone Python + Tkinter desktop application for managing visitor and lab a
 CETI Visitor Card Tracker keeps track of who signs out lab or visitor cards, when they’re returned, and where each card belongs.  
 It uses an SQLite database with WAL mode for safe multi-user access over a shared network drive — no server or external dependencies required.
 
----
-
 ## Features
 
 - Card tracking — manage sign-outs, returns, and lost/found status  
@@ -18,8 +16,6 @@ It uses an SQLite database with WAL mode for safe multi-user access over a share
 - History log — view all sign-outs and export results to CSV  
 - Shared access — supports concurrent use over a network share  
 - Self-contained — no installation, no internet, no dependencies
-
----
 
 ## Interface Overview
 
@@ -32,8 +28,6 @@ It uses an SQLite database with WAL mode for safe multi-user access over a share
 **Double-click behavior:**  
 - Available: opens the Sign Out dialog  
 - Out: marks card as Returned
-
----
 
 ## Setup
 
